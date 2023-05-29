@@ -1,2 +1,7 @@
 # HOUSEpitality-IT-Bot
 Basic bot written in Swift
+
+This is a proof of concept but we could potentially install this on all iPads and staff would have the option to
+install it on their phone. Obviously more reliable/faster than standard SMS.
+
+![IMAGE](https://i.imgur.com/JEkls0g.jpg)
